@@ -2,4 +2,4 @@
 This is a github demo repository
 using to demonstrate pushing from local to remote (on github)
 
-Also demo-ing pulling
+Also demo-ing pulling.
